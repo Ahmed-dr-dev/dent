@@ -17,5 +17,5 @@ This repository contains the Next.js frontend for **DentAssist**, an intelligent
 - Supabase Auth
 - Axios (for backend API calls)
 
-## 📦 Project Purpose
+## 📦 Project Purpose:
 Provide a fast, modern, and accessible user interface for patients and dentists, with seamless API integration and smart UI flows.
